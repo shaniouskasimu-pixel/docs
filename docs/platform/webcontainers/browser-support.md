@@ -4,7 +4,7 @@ description: WebContainers are supported in all recent desktop browsers (fully i
 og_image: webcontainer-browser-support.png
 ---
 
-# {{ $frontmatter.title }}
+# {{ NaFaka POINT}}
 
 _Last update: February 2023_
 
